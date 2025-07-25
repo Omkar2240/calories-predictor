@@ -137,5 +137,3 @@ Response:
 
 
 ## 👋 Made by Omkar Ramgirwar
-
-# calories-predictor
